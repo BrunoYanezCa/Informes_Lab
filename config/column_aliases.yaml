@@ -1,0 +1,20 @@
+general:
+  month: MES
+  reception_date: FECHA INGRESO
+  product: NOMBRE ARTICULO
+  client_reference: N° DE GUIA
+  lot_or_container: LOTE O CONTENEDOR /ID BATCH MEZCLA
+  supplier_or_origin: PROVEEDOR CLIENTE O ESTANQUE SBH
+  client: CLIENTE
+  request_number: N SOLICITUD DE ANALISIS
+  sample_code: JOB
+  analysis_name: ANALISIS
+  start_date: FECHA INICIO
+  end_date: FECHA TÉRMINO
+  analyte: ANALITO
+  source_result: VALOR PRE
+  reportable_result: VALOR REPORTABLE (PAG, SUMA ÁREA)
+  unit: UNIDAD DE EXPRESION
+  observations: OBSERVACIONES
+  analyst: ANALISTA
+  supervisor: SUPERVISOR

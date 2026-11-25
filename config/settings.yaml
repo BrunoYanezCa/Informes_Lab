@@ -1,0 +1,37 @@
+workbook:
+  general_sheet: Resultados_generales_2026
+  pag_sheet: PAG
+  general_header_row: 5
+  general_data_start_row: 6
+  pag_identifier_row: 1
+  pag_job_row: 4
+  pag_unit_row: 6
+  pag_analyte_label_column: 2
+  pag_first_sample_column: 3
+
+assets:
+  logo: assets/logo.png
+  signature: assets/signature.jpeg
+
+report:
+  page_size: A4
+  rows_per_page: 32
+  signature:
+    default_name: María José Garcés
+    default_title: Jefe de Laboratorio Químico
+    default_location: Puerto Varas
+  legal_notices:
+    sample_condition: >-
+      La muestra ha sido proporcionada por el cliente y los resultados aplican a la muestra tal como fue recibida. SGS Chile Ltda. no es responsable por la información proporcionada ni por las condiciones, el estado o la preservación de la muestra. Los datos proporcionados por el cliente están claramente identificados en el presente informe.
+    terms: >-
+      Este informe es emitido, a pedido del cliente, bajo las condiciones generales de servicio de la compañía informadas en la cotización. El cliente debe tener en cuenta las definiciones de limitación de responsabilidad, indemnización y jurisdicción contenidas en el documento citado. (Copia disponible a petición).
+    validity: >-
+      Los resultados solo son válidos para las muestras analizadas. Se prohíbe su reproducción total o parcial.
+  institutional_footer:
+    results_statement: Los resultados aplican a la muestra tal como se recibió.
+    name: SGS Chile Ltda.
+    address: Coronel, Chile
+    phone: t (56) 65 2390205
+    fax: t (56) 65 2390210
+    website: www.sgs.com
+    membership: Miembro del Grupo SGS (Société Générale de Surveillance)

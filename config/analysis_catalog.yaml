@@ -1,0 +1,17 @@
+analyses:
+  - code: PAG
+    aliases:
+      - PAG
+      - Perfil Ácidos Grasos
+      - Perfil de Ácidos Grasos
+    display_name: Perfil de Ácidos Grasos
+    preferred_source: PAG
+    analytes: []
+    allowed_units:
+      - "% Area"
+      - g/100g
+    method_code: ""
+    method_description: ""
+    limits: {}
+    presentation_order: 100
+    rules: {}

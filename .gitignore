@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/*.xlsx
+data/*.xlsm
+data/*.pdf
+config/catalog_overrides.json
+config/user_preferences.json
+assets/signature.original.jpeg
